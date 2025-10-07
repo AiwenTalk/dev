@@ -1,0 +1,15 @@
+/workspaces/dev/HelloCS/bin/Debug/net8.0/HelloCS
+/workspaces/dev/HelloCS/bin/Debug/net8.0/HelloCS.deps.json
+/workspaces/dev/HelloCS/bin/Debug/net8.0/HelloCS.runtimeconfig.json
+/workspaces/dev/HelloCS/bin/Debug/net8.0/HelloCS.dll
+/workspaces/dev/HelloCS/bin/Debug/net8.0/HelloCS.pdb
+/workspaces/dev/HelloCS/obj/Debug/net8.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dev/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfoInputs.cache
+/workspaces/dev/HelloCS/obj/Debug/net8.0/HelloCS.AssemblyInfo.cs
+/workspaces/dev/HelloCS/obj/Debug/net8.0/HelloCS.csproj.CoreCompileInputs.cache
+/workspaces/dev/HelloCS/obj/Debug/net8.0/HelloCS.sourcelink.json
+/workspaces/dev/HelloCS/obj/Debug/net8.0/HelloCS.dll
+/workspaces/dev/HelloCS/obj/Debug/net8.0/refint/HelloCS.dll
+/workspaces/dev/HelloCS/obj/Debug/net8.0/HelloCS.pdb
+/workspaces/dev/HelloCS/obj/Debug/net8.0/HelloCS.genruntimeconfig.cache
+/workspaces/dev/HelloCS/obj/Debug/net8.0/ref/HelloCS.dll

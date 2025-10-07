@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-dotnettools.dotnet-interactive-vscode",
+        "tintoy.msbuild-project-tools",
+        "humao.rest-client",
+        "icsharpcode.ilspy-vscode",
+        "ms-azuretools.vscode-azurefunctions",
+        "ms-mssql.mssql",
+        "zxh404.vscode-proto3",
+        "ms-dotnettools.csharp"
+    ]
+}
